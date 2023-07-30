@@ -5,5 +5,4 @@ hijazi
 <img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hijazi01&langs_count=10&theme=merko&layout=compact&hide=html"> 
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hijazi01&rank_icon=github)https://github-readme-stats.vercel.app/api?username=hijazi01&rank_icon=github)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hijazi01&rank_icon=github)
