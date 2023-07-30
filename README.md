@@ -8,7 +8,7 @@ hijazi
 </tr>
 <tr>
   <p align="center">
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hijazi01&rank_icon=github)
+   <img alt="Devorein :: Anurag's GitHub stats]" src="https://github-readme-stats.vercel.app/api?username=hijazi01&rank_icon=github">
 </p>
   
 </tr>
