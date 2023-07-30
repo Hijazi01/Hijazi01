@@ -1,6 +1,6 @@
 # WELLCOME
 hijazi
-<table align="center" border="white">
+<table align="center" border="0">
 <tr>
   <td>
   <p >
