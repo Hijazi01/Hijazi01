@@ -1,9 +1,14 @@
+<img src="https://github.githubassets.com/images/modules/site/social-cards/github-social.png" />
+<h1 align="center">Hi There<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ahmed Mostafa hijazi</h1>
+<h3 align="center">Python Developer | Odoo Developer </h3>
 
-# WELLCOME
-hijazi
-<p align="left">
-- 🌱 I’m currently learning **React , JS Frameworks.**
+## 🙋‍♂️ About me
 
+🌱 I'm currently trying to improve myself in Python by solving problems on LeetCode, reading docs, and more 🐍 💪
+
+💬 Ask me about Python, Django, and DRF. if I know the answer, I will be happy to help you  👩‍💻 👌
+
+⚡ Fun fact: I love to read books while drinking coffee 📚 ☕
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/andiicodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andiicodes" height="30" width="40" /></a>
