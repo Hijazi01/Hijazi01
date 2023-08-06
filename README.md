@@ -1,5 +1,5 @@
 <img src="https://github.githubassets.com/images/modules/site/social-cards/github-social.png" />
-<h1 align="center">Hi There<img src="https://realpython.com/static/videos/lesson-locked.f5105cfd26db.svg" width="30px">, I'm Ahmed Mostafa hijazi</h1>
+<h1 align="center">Hi There  I'm Ahmed Mostafa hijazi</h1>
 <h3 align="center">Python Developer | Odoo Developer </h3>
 
 ## 🙋‍♂️ About me
