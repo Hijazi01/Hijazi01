@@ -4,11 +4,12 @@
 
 ## 🙋‍♂️ About me
 
-🌱 I'm currently trying to improve myself in Python by solving problems on LeetCode, reading docs, and more 🐍 💪
+I'm currently trying to improve myself in Python by reading docs and attending courses 🐍 💪
+I am currently trying to improve myself in the field of FULL STACK DVEVOLPER USING PYTHON by creating integrated projects
 
-💬 Ask me about Python, Django, and DRF. if I know the answer, I will be happy to help you  👩‍💻 👌
+💬 Ask me about SQL, Python, Django, and React.js. If I know the answer I will be happy to help you 👩‍💻 👌
 
-⚡ Fun fact: I love to read books while drinking coffee 📚 ☕
+⚡ Fun fact: I love learning everything new 📚 ☕
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hijazi01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hijazi01" height="30" width="40" /></a>
