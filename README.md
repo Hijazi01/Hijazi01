@@ -5,6 +5,7 @@
 ## 🙋‍♂️ About me
 
 I'm currently trying to improve myself in Python by reading docs and attending courses 🐍 💪
+
 I am currently trying to improve myself in the field of FULL STACK DVEVOLPER USING PYTHON by creating integrated projects
 
 💬 Ask me about SQL, Python, Django, and React.js. If I know the answer I will be happy to help you 👩‍💻 👌
